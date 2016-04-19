@@ -7,6 +7,13 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>CMADWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <properties>
+<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+<sonar.language>java</sonar.language>
+    <sonar.login>admin</sonar.login>
+<sonar.password>admin</sonar.password>
+  </properties>
+  
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
