@@ -31,6 +31,7 @@ public class UserTest {
 	@Test
 	public void testLogin() throws IOException
 	{
+		//Not a valid Test
 		/*
 	    String URL_LOGIN = "http://localhost:8080/CMADWebApp/services";
 	    Client client = Client.create();
