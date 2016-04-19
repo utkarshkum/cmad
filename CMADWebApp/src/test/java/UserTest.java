@@ -31,6 +31,7 @@ public class UserTest {
 	@Test
 	public void testLogin() throws IOException
 	{
+		/*
 	    String URL_LOGIN = "http://localhost:8080/CMADWebApp/services";
 	    Client client = Client.create();
 
@@ -48,6 +49,7 @@ public class UserTest {
 	    String page = webResource.post(String.class);
 
 	    System.out.println(page);
+	    */
 	}
 
 	@Test
